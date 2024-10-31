@@ -1,6 +1,5 @@
 <h2 align="left">Hi 👋! My name is Amna and I'm a New Intern, from Digital Experience Department</h2>
 
-###
 <h2 align="center">week 1</h2>
 
 <p>
