@@ -1,33 +1,48 @@
 # Hi 👋! My name is Amna, and I'm a New Intern from the Digital Experience Department
 
+# Internship Weekly Summary
+
 ## Week 1
 
-**Sunday**  
-- Joined the team and signed the contract  
-- Toured the National Museum and completed 12 Engagement Observation sheets  
+### Sunday
+- **Team Introduction and Contract Signing**  
+  The week began with an official introduction to the team and signing the internship contract.
 
-**Monday**  
-- Engaged with visitors and gathered feedback through a survey to understand their opinions on multimedia  
+- **Tour of the National Museum**  
+  I went on an immersive tour of the National Museum to familiarize myself with the exhibits, layout, and the visitor engagement techniques currently in place.
 
-**Tuesday & Wednesday**  
-- Learned Power BI to analyze the Excel sheet, named “Visitor Survey Analysis”  
+- **Visitor Engagement Observation Sheets**  
+  Completed 12 visitor engagement observation sheets by observing visitor interactions. This activity provided insights into how visitors respond to various exhibits, particularly multimedia ones, helping us gauge their engagement levels and identify areas for improvement.
 
-**Thursday**  
-- Created an account on GitHub and made a simple vlog about my week  
-- Wrote an overview report about the Power BI report  
+### Monday
+- **Visitor Feedback Survey**  
+  Engaged with visitors and gathered feedback through a survey. The goal was to understand visitor opinions on the museum’s multimedia experiences.
 
-**Lessons Learned**  
+### Tuesday & Wednesday
+- **Learning Power BI for Data Analysis**  
+  Dedicated time to studying Power BI, focusing on creating an analysis of the multimedia survey data, titled “Visitor Survey Analysis.” Through tutorials and practice, I learned how to use Power BI's basic functionalities to visualize the feedback data.
+
+### Thursday
+- **GitHub and Weekly Vlog**  
+  Created a GitHub account and made a simple vlog to recap my week’s activities.
+
+- **Report Drafting**  
+  Drafted a report using the insights from the Visitor Survey Analysis conducted in Power BI.
+
+---
+
+## Lessons Learned
 - From Power BI:
   - Learned how to clean and sort the data.
-  - Learned how to unpivot columns.
-  - Discovered silent visualization; it’s interactive and enhances graphics.
+  - Practiced unpivoting columns.
+  - Discovered silent visualization, which enhances interactivity and makes graphics more engaging.
 
-**Challenges**  
-- Not entirely sure if I cleaned the data correctly.
+## Challenges
+- Initially unsure if the data was cleaned correctly, but received guidance from Tooba to confirm the process.
+- Some visitor feedback was challenging to visualize effectively, particularly complex textual responses. This made it difficult to present insights clearly and concisely.
 
-**Conclusion**  
-I'm excited to learn more about Power BI, and working with real data was very beneficial. I hope to take a course to deepen my knowledge. Visiting the museum as an intern felt different because I focused on learning the technologies in the museum rather than just the historical aspects.
-
+## Conclusion
+Working with real data in Power BI has been a valuable experience, and I’m eager to further develop my skills in this tool, potentially through a dedicated course. While I have visited the museum before, being here as an intern has shifted my focus toward learning about the museum’s technologies rather than solely its historical content.
 
 **All the tools I used**
 <p align="left">
