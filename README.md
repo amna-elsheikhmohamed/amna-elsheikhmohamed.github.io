@@ -23,14 +23,14 @@
 
 ## Lessons Learned
 - From Power BI:
-  - I learn how to clean and sort the date.
+  - I learn how to clean and sort the data.
   - I learn how to unpivot columns
   -  I learn about silence visualization it really cool and make the graphics more interactive
 
 
 ## Challenges
 - 	Initially unsure if I cleaned the data correctly, but I checked with Tooba for confirmation.
-- 	Some aspects of the data were challenging to visualize effectively. Complex visitor feedback, especially in textual responses, made it difficult to present insights clearly and concisely.
+- 	Some aspects of the data were challenging to visualize effectively.For example, complex visitor feedback, especially in textual responses, made it difficult to present insights clearly and concisely.
 
 ## Conclusion
 I have always been eager to learn more about Power BI, so it was great to work with real data during my internship. I hope to take a course to further enhance my knowledge of it. I’ve visited the museum twice before, but this time feels different because I’m focused on learning about the technologies available at the museum, rather than just the historical aspects.
