@@ -20,6 +20,10 @@
   &nbsp;&nbsp;&nbsp;• I learned about silent visualization; it’s really cool and makes the graphics more interactive.<br>
   <strong>Challenges</strong><br>
   • I am not sure if I cleaned the data in the right way.
+  <br>
+   <strong>Conclusion</strong><br>
+I have always been eager to learn more about Power BI, so it was great to work with real data during my internship. I hope to take a course to further enhance my knowledge of it. I’ve visited the museum twice before, but this time feels different because I’m focused on learning about the technologies available at the museum, rather than just the historical aspects.
+
 </p>
 
 
