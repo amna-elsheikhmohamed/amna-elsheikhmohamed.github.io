@@ -47,7 +47,12 @@ I have always been eager to learn more about Power BI, so it was great to work w
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
+footer {
+  background-color: #777;
+  padding: 10px;
+  text-align: center;
+  color: white;
+}
+<footer>
+</footer>
 ###
