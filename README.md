@@ -28,14 +28,9 @@
 **Conclusion**  
 I'm excited to learn more about Power BI, and working with real data was very beneficial. I hope to take a course to deepen my knowledge. Visiting the museum as an intern felt different because I focused on learning the technologies in the museum rather than just the historical aspects.
 
----
 
-<p align="center">
-  <img src="https://i.imgflip.com/65efzo.gif" height="150" alt="Animated GIF"/>
-</p>
-
-<p align="left">
 **All the tools I used**
+<p align="left">
   <a href="https://github.com/your-username" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="60" alt="GitHub logo" />
   </a>
@@ -47,4 +42,7 @@ I'm excited to learn more about Power BI, and working with real data was very be
 
 <p align="center">
   &copy; 2024 Qatar Museum Internship
+  <img src="https://www.qna.org.qa/en/News-Area/News/2024-08/07/qnacdn.azureedge.net/-/media/Project/QNA/QNAImages/2024-08/01/qna_mtahef_1_8_2024.jpg?h=630&la=en&w=840&modified=20240801180243" height="60" alt="Stats Graph" />
+  <a href="https://github.com/your-username" target="_blank">
+  </a>
 </p>
