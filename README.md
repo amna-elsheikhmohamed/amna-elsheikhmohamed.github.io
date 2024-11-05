@@ -66,7 +66,7 @@ I have always been eager to learn more about Power BI, so it was great to work w
 <p align="left">
 <!-- Eleven Labs logo -->
 <a href="https://elevenlabs.io/" target="_blank">
-  <img src="https://elevenlabs.io/favicon.ico" height="60" alt="Eleven Labs logo" />
+  <img src="https://ubos.tech/wp-content/uploads/2024/01/ElevenLabs-Logo.png" height="60" alt="Eleven Labs logo" />
 </a>
   <!-- Ruby logo -->
   <a href="https://www.ruby-lang.org/en/" target="_blank">
