@@ -2,7 +2,7 @@
 
 # Internship Weekly Summary
 
-<h1 align="center">Week 1 :cherry_blossom:</h1>
+<h1 align="center">Week 1 🌸</h1>
 
 ### Sunday
 -	The week began with an official introduction to the team and  the signing of the internship contract. 
@@ -45,7 +45,7 @@ I have always been eager to learn more about Power BI, so it was great to work w
 </p>
 
 ---
-<h1 align="center">Week 2 :hibiscus:	</h1>
+<h1 align="center">Week 2 🌺 </h1>
 
 ### Sunday
 - Read websites to understand the project.
