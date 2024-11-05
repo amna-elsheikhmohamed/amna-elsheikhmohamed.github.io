@@ -2,7 +2,7 @@
 
 # Internship Weekly Summary
 
-## Week 1 
+<h1 align="center">Week 1 :cherry_blossom:</h1>
 
 ### Sunday
 -	The week began with an official introduction to the team and  the signing of the internship contract. 
@@ -45,7 +45,8 @@ I have always been eager to learn more about Power BI, so it was great to work w
 </p>
 
 ---
-## Week 2
+<h1 align="center">Week 2 :hibiscus:	</h1>
+
 ### Sunday
 - Read websites to understand the project.
 - Downloaded Ruby and Jekyll, set them up, and ran the project code.
@@ -68,6 +69,7 @@ I have always been eager to learn more about Power BI, so it was great to work w
 <a href="https://elevenlabs.io/" target="_blank">
   <img src="https://ubos.tech/wp-content/uploads/2024/01/ElevenLabs-Logo.png" height="60" alt="Eleven Labs logo" />
 </a>
+  
   <!-- Ruby logo -->
   <a href="https://www.ruby-lang.org/en/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" height="60" alt="Ruby logo" />
@@ -76,7 +78,7 @@ I have always been eager to learn more about Power BI, so it was great to work w
 
 
 
-
+----
 <p align="center">
   &copy; 2024 Qatar Museum Internship
   <img src="https://www.qna.org.qa/en/News-Area/News/2024-08/07/qnacdn.azureedge.net/-/media/Project/QNA/QNAImages/2024-08/01/qna_mtahef_1_8_2024.jpg?h=630&la=en&w=840&modified=20240801180243" height="60" alt="Stats Graph" />
