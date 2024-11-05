@@ -2,7 +2,7 @@
 
 # Internship Weekly Summary
 
-## Week 1
+## Week 1 
 
 ### Sunday
 -	The week began with an official introduction to the team and  the signing of the internship contract. 
@@ -45,6 +45,26 @@ I have always been eager to learn more about Power BI, so it was great to work w
 </p>
 
 ---
+## Week 2
+### Sunday
+- Read websites to understand the project.
+- Downloaded Ruby and Jekyll, set them up, and ran the project code.
+### Monday
+ Studied the code and attempted to understand its structure and logic.
+- Watched tutorials about YAML to learn how it works.
+- Tried modifying the website’s design.
+### Tuesday 
+- Tried modifying the website’s design.
+- Created some content and images to add to the site.
+- Explored free tools for converting text to speech in different languages.
+## Challenges
+- 	Initially unsure if I cleaned the data correctly, but I checked with Tooba for confirmation.
+- 	Some aspects of the data were challenging to visualize effectively.For example, complex visitor feedback, especially in textual responses, made it difficult to present insights clearly and concisely.
+
+
+
+
+
 
 <p align="center">
   &copy; 2024 Qatar Museum Internship
