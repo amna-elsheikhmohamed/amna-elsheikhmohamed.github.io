@@ -57,12 +57,19 @@ I have always been eager to learn more about Power BI, so it was great to work w
 - Tried modifying the website’s design.
 - Created some content and images to add to the site.
 - Explored free tools for converting text to speech in different languages.
+- create simple Excel to compare Language and Audio Duration which I created with tools for converting text to speech in different languages.
 ## Challenges
-- 	Initially unsure if I cleaned the data correctly, but I checked with Tooba for confirmation.
-- 	Some aspects of the data were challenging to visualize effectively.For example, complex visitor feedback, especially in textual responses, made it difficult to present insights clearly and concisely.
+- Learning Ruby, which is a new framework for me.
+-  Finding it challenging to stay motivated with Ruby, as it feels old and doesn't interest me.
 
-
-
+**All the tools I used**
+<p align="left">
+  <a href="https://github.com/your-username" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="60" alt="GitHub logo" />
+  </a>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" height="60" alt="Excel logo" />
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" height="60" alt="Power BI logo" />
+</p>
 
 
 
