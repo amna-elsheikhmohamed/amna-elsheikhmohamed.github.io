@@ -64,12 +64,17 @@ I have always been eager to learn more about Power BI, so it was great to work w
 
 **All the tools I used**
 <p align="left">
-  <a href="https://github.com/your-username" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="60" alt="GitHub logo" />
+  <!-- Eleven Labs logo -->
+  <a href="https://elevenlabs.io/" target="_blank">
+    <img src="https://upload.wikimedia.org/path-to-eleven-labs-logo.png" height="60" alt="Eleven Labs logo" />
   </a>
-  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" height="60" alt="Excel logo" />
-  <img src="https://img.icons8.com/color/48/000000/power-bi.png" height="60" alt="Power BI logo" />
+
+  <!-- Ruby logo -->
+  <a href="https://www.ruby-lang.org/en/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" height="60" alt="Ruby logo" />
+  </a>
 </p>
+
 
 
 
