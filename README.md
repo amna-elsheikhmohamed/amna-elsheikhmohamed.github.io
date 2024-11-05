@@ -48,22 +48,32 @@ I have always been eager to learn more about Power BI, so it was great to work w
 <h1 align="center">Week 2 🌺 </h1>
 
 ### Sunday
-- Read websites to understand the project.
+- Explore material to understand the project.
 - Downloaded Ruby and Jekyll, set them up, and ran the project code.
 ### Monday
- Studied the code and attempted to understand its structure and logic.
+- Studied the code and attempted to understand its structure and logic.
 - Watched tutorials about YAML to learn how it works.
 - Tried modifying the website’s design.
 ### Tuesday 
 - Tried modifying the website’s design.
 - Created some content and images to add to the site.
 - Explored free tools for converting text to speech in different languages.
+- Add audios in different languages
 - create simple Excel to compare Language and Audio Duration which I created with tools for converting text to speech in different languages such as Eleven Labs.
 ## Challenges
 - Learning Ruby, which is a new framework for me.
--  Finding it challenging to stay motivated with Ruby, as it feels old and doesn't interest me.
+- Finding it challenging to stay motivated with Ruby, as it feels old and doesn't interest me.
+  
+  ## Overview of web
 
-**All the tools I used**
+<a target="_blank">
+  <img src="https://github.com/user-attachments/assets/8848d810-156c-433d-9257-41d653b04195" height="200"  />
+</a>
+<a target="_blank">
+  <img src="https://github.com/user-attachments/assets/b636cce9-245c-4216-85af-b3fd8c51a343" height="200"  />
+</a>
+
+## All the tools I used
 <p align="left">
 <!-- Eleven Labs logo -->
 <a href="https://elevenlabs.io/" target="_blank">
