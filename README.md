@@ -47,6 +47,8 @@ I have always been eager to learn more about Power BI, so it was great to work w
 ---
 <h1 align="center">Week 2 🌺 </h1>
 
+This week,  My supervisor assigned me to fork the Australian Center for Moving Image’s source code using Ruby and Jekyll to create an audio guide for a fictional exhibition. My main tasks involved customizing the website's design, adding audio generated with a text-to-speech tool, and utilizing multimedia elements published on the Qatar Museum website.
+
 ### Sunday
 - Explore material to understand the project.
 - Downloaded Ruby and Jekyll, set them up, and ran the project code.
@@ -60,6 +62,8 @@ I have always been eager to learn more about Power BI, so it was great to work w
 - Explored free tools for converting text to speech in different languages.
 - Add audios in different languages
 - create simple Excel to compare Language and Audio Duration which I created with tools for converting text to speech in different languages such as Eleven Labs.
+  ![image](https://github.com/user-attachments/assets/166e1f31-1fc4-4309-8949-c431eaae8006)
+
 ## Challenges
 - Learning Ruby, which is a new framework for me.
 - Finding it challenging to stay motivated with Ruby, as it feels old and doesn't interest me.
