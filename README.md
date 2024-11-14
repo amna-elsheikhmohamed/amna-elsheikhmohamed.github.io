@@ -97,6 +97,7 @@ This week, I’m looking into a new platform, Getty’s Quire, to explore its ca
 
 ## Challenges and Achievements
 I tried to install Quire and Node on my laptop, but it didn’t work. I asked Tooba for help, but it didn’t work on her laptop either. I think there might be an issue with the platform, so I emailed their support team. They sent me some solutions, and I’ll try them later and update you.
+
   <img src="https://github.com/user-attachments/assets/dc40ab7a-9af7-4c92-b3f9-4df44eac4808" alt="Processed Image" height="100">
 
 ### Thursday
