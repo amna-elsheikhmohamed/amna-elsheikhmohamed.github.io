@@ -110,6 +110,7 @@ The first two sections of the exhibition were the most intriguing for me, especi
   <img src="https://github.com/user-attachments/assets/45b25b98-5156-4ff5-9a36-14b76e0e9bd5" alt="Processed Image" height="100">
 
 The audio guide added an extra layer of enjoyment to the experience, offering a brief yet captivating story behind each painting. It wasn’t just informative it brought the artwork to life in a way that felt personal and engaging. With its distinctive and clear voice, the audio guide truly enhanced the exhibition, making the experience even more immersive.
+
   <img src="https://github.com/user-attachments/assets/16fc9889-ea43-4995-b139-5c03175c646e" alt="Processed Image" height="100">
   <img src="https://github.com/user-attachments/assets/d59c9ca2-b235-4487-a437-1c1a486cb6fc" alt="Processed Image" height="100">
 
