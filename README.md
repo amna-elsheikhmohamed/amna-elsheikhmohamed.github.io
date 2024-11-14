@@ -96,19 +96,22 @@ This week, I’m looking into a new platform, Getty’s Quire, to explore its ca
 
 ## Challenges and Achievements
 I tried to install Quire and Node on my laptop, but it didn’t work. I asked Tooba for help, but it didn’t work on her laptop either. I think there might be an issue with the platform, so I emailed their support team. They sent me some solutions, and I’ll try them later and update you.
-![Outlook-yxlzoeo2](https://github.com/user-attachments/assets/dc40ab7a-9af7-4c92-b3f9-4df44eac4808)
+  <img src="https://github.com/user-attachments/assets/dc40ab7a-9af7-4c92-b3f9-4df44eac4808" alt="Processed Image" height="100">
+
 ### Thursday
 Today, our team visited the Arab Museum of Modern Art to explore the exhibition *Seeing Is Believing: The Art and Influence of Gérôme*. We aimed to experience it from a guest’s perspective and to check the audio guide available there.
 
 It was an amazing and entirely new experience for me—my first time learning about Orientalism in art. I was captivated by Gérôme’s realistic style; he portrayed Arab life with authenticity, capturing the essence of that time period without imposing European perspectives. His art is rich in detail and color, truly bringing history to life. I was also amazed at how well-preserved the paintings were. Despite being over 200 years old, they looked almost new, as if they had just been painted.
-![processed-49ECEDEA-369A-47C9-91FD-185E51DCCECE](https://github.com/user-attachments/assets/1be9e9ee-a138-4017-ba07-bb5355f1f3d4)
+
+  <img src="https://github.com/user-attachments/assets/1be9e9ee-a138-4017-ba07-bb5355f1f3d4" alt="Processed Image" height="100">
 
 The first two sections of the exhibition were the most intriguing for me, especially the multimedia displays, which revealed details I hadn’t noticed before. For instance, in one of Gérôme's paintings depicting prayer, he showed people in different postures. This caught my attention because, in Islam, we pray in unison, moving through the same stages together. The multimedia explanation helped me realize that Gérôme likely intended to capture all the stages of prayer within a single scene.
-![processed-1AFB7062-58A9-4CA2-B22C-DB183240E0DF](https://github.com/user-attachments/assets/45b25b98-5156-4ff5-9a36-14b76e0e9bd5)
 
+  <img src="https://github.com/user-attachments/assets/45b25b98-5156-4ff5-9a36-14b76e0e9bd5" alt="Processed Image" height="100">
 
 The audio guide added an extra layer of enjoyment to the experience, offering a brief yet captivating story behind each painting. It wasn’t just informative it brought the artwork to life in a way that felt personal and engaging. With its distinctive and clear voice, the audio guide truly enhanced the exhibition, making the experience even more immersive.
-![processed-94D8193C-83EE-4767-A855-8C77D069854D](https://github.com/user-attachments/assets/16fc9889-ea43-4995-b139-5c03175c646e)
+  <img src="https://github.com/user-attachments/assets/16fc9889-ea43-4995-b139-5c03175c646e" alt="Processed Image" height="100">
+  <img src="https://github.com/user-attachments/assets/d59c9ca2-b235-4487-a437-1c1a486cb6fc" alt="Processed Image" height="100">
 
 ----
 <p align="center">
