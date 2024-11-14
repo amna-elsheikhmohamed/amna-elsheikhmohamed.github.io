@@ -62,6 +62,7 @@ This week,  My supervisor assigned me to fork the Australian Center for Moving I
 - Explored free tools for converting text to speech in different languages.
 - Add audios in different languages
 - create simple Excel to compare Language and Audio Duration which I created with tools for converting text to speech in different languages such as Eleven Labs.
+  
     <img src="https://github.com/user-attachments/assets/166e1f31-1fc4-4309-8949-c431eaae8006" alt="Processed Image" height="100">
 
 ## Challenges
