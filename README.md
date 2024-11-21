@@ -52,6 +52,7 @@ I have always been eager to learn more about Power BI, so it was great to work w
 </p>
 
 ---
+
 <h1 id="week2" align="center">Week 2 🌺</h1>
 
 This week,  My supervisor assigned me to fork the Australian Center for Moving Image’s source code using Ruby and Jekyll to create an audio guide for a fictional exhibition. My main tasks involved customizing the website's design, adding audio generated with a text-to-speech tool, and utilizing multimedia elements published on the Qatar Museum website.
@@ -77,7 +78,7 @@ This week,  My supervisor assigned me to fork the Australian Center for Moving I
   
   ## Overview of web
 
-  <a href="https://amna-am1803081.github.io/welcome/">  "Click here to vist the Audio Guide." 🌸</a> | 
+                                                <a href="https://amna-am1803081.github.io/welcome/">Click here to vist the Audio Guide🌸</a> | 
 
 <a target="_blank">
   <img src="https://github.com/user-attachments/assets/8848d810-156c-433d-9257-41d653b04195" alt="Processed Image" height="200" width="auto">
