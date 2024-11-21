@@ -80,7 +80,7 @@ This week,  My supervisor assigned me to fork the Australian Center for Moving I
   
   ## Overview of web
 
-<a align="center" href="https://amna-am1803081.github.io/welcome/">Click here to vist the Audio Guide🌸</a>
+<a align="center" href="https://amna-am1803081.github.io/welcome/">Click here to vist the Audio Guide🎧</a>
 
 <a target="_blank">
   <img src="https://github.com/user-attachments/assets/8848d810-156c-433d-9257-41d653b04195" alt="Processed Image" height="200" width="auto">
@@ -127,7 +127,7 @@ The audio guide added an extra layer of enjoyment to the experience, offering a 
   <img src="https://github.com/user-attachments/assets/d59c9ca2-b235-4487-a437-1c1a486cb6fc" alt="Processed Image" height="200" width="auto">
 ---
 
-<h1 id="week4" align="center">Week 4 🌸</h1>
+<h1 id="week4" align="center">Week 4 💫 </h1>
 
 My task this week is to explore different museum online collections and choose collection to analyze using Power BI. 
 ## Challenges
@@ -135,7 +135,7 @@ One challenge I faced was trying to use a line chart or Gantt to visualize the b
 
 ## Overview of my Dashboard
   
-<a align="center" href="https://app.powerbi.com/groups/me/reports/85d90aa7-29fa-4188-9617-af6fa8f2fec8/f128069a26bd1f8567ff?experience=power-bi">Click here to vist my Dashboard🌸</a>
+<a align="center" href="https://app.powerbi.com/groups/me/reports/85d90aa7-29fa-4188-9617-af6fa8f2fec8/f128069a26bd1f8567ff?experience=power-bi">Click here to vist my Dashboard📈</a>
 
 <img src="https://github.com/user-attachments/assets/87e23e54-7fbc-4cb5-9a30-3da7e4c7d897" alt="Processed Image" height="200" width="auto">
 
