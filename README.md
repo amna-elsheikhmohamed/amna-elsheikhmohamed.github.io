@@ -132,7 +132,8 @@ The audio guide added an extra layer of enjoyment to the experience, offering a 
 My task this week is to explore different museum online collections and choose collection to analyze using Power BI. 
 ## Challenges
 One challenge I faced was trying to use a line chart or Gantt to visualize the birth and death dates, as well as the age of the artist, but it didn’t work for me. So, I ended up using a table instead. I think it would be cooler if it were a chart.
- ## Overview of my Dashboard
+
+## Overview of my Dashboard
   
 <a align="center" href="https://app.powerbi.com/groups/me/reports/85d90aa7-29fa-4188-9617-af6fa8f2fec8/f128069a26bd1f8567ff?experience=power-bi">Click here to vist my Dashboard🌸</a>
 
