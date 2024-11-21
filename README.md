@@ -1,13 +1,13 @@
 # Hi 👋! My name is Amna, and I'm a New Intern from the Digital Experience Department
 
-# Internship Weekly Summary
 <h1 align="center">Internship Weekly Summary</h1>
-
 <p align="center">
   <a href="#week1">Week 1 🌸</a> | 
   <a href="#week2">Week 2 🌺</a> | 
   <a href="#week3">Week 3 📝</a>
 </p>
+
+---
 
 <h1 id="week1" align="center">Week 1 🌸</h1>
 
@@ -70,8 +70,7 @@ This week,  My supervisor assigned me to fork the Australian Center for Moving I
 - Add audios in different languages
 - create simple Excel to compare Language and Audio Duration which I created with tools for converting text to speech in different languages such as Eleven Labs.
   
-    <img src="https://github.com/user-attachments/assets/166e1f31-1fc4-4309-8949-c431eaae8006" alt="Processed Image" height="100">
-
+    <img src="https://github.com/user-attachments/assets/166e1f31-1fc4-4309-8949-c431eaae8006" alt="Processed Image" height="200" width="auto">
 ## Challenges
 - Learning Ruby, which is a new framework for me.
 - Finding it challenging to stay motivated with Ruby, as it feels old and doesn't interest me.
@@ -79,10 +78,9 @@ This week,  My supervisor assigned me to fork the Australian Center for Moving I
   ## Overview of web
 
 <a target="_blank">
-  <img src="https://github.com/user-attachments/assets/8848d810-156c-433d-9257-41d653b04195" height="200"  />
-</a>
+  <img src="https://github.com/user-attachments/assets/8848d810-156c-433d-9257-41d653b04195" alt="Processed Image" height="200" width="auto">
 <a target="_blank">
-  <img src="https://github.com/user-attachments/assets/b636cce9-245c-4216-85af-b3fd8c51a343" height="200"  />
+  <img src="https://github.com/user-attachments/assets/b636cce9-245c-4216-85af-b3fd8c51a343" alt="Processed Image" height="200" width="auto">
 </a>
 
 ## All the tools I used
@@ -105,23 +103,23 @@ This week, I’m looking into a new platform, Getty’s Quire, to explore its ca
 ## Challenges and Achievements
 I tried to install Quire and Node on my laptop, but it didn’t work. I asked Tooba for help, but it didn’t work on her laptop either. I think there might be an issue with the platform, so I emailed their support team. They sent me some solutions, and I’ll try them later and update you.
 
-  <img src="https://github.com/user-attachments/assets/dc40ab7a-9af7-4c92-b3f9-4df44eac4808" alt="Processed Image" height="100">
+  <img src="https://github.com/user-attachments/assets/dc40ab7a-9af7-4c92-b3f9-4df44eac4808" alt="Processed Image" height="200" width="auto">
 
 ### Thursday
 Today, our team visited the Arab Museum of Modern Art to explore the exhibition *Seeing Is Believing: The Art and Influence of Gérôme*. We aimed to experience it from a guest’s perspective and to check the audio guide available there.
 
 It was an amazing and entirely new experience for me—my first time learning about Orientalism in art. I was captivated by Gérôme’s realistic style; he portrayed Arab life with authenticity, capturing the essence of that time period without imposing European perspectives. His art is rich in detail and color, truly bringing history to life. I was also amazed at how well-preserved the paintings were. Despite being over 200 years old, they looked almost new, as if they had just been painted.
 
-  <img src="https://github.com/user-attachments/assets/1be9e9ee-a138-4017-ba07-bb5355f1f3d4" alt="Processed Image" height="100">
+  <img src="https://github.com/user-attachments/assets/1be9e9ee-a138-4017-ba07-bb5355f1f3d4" alt="Processed Image" height="200" width="auto">
 
 The first two sections of the exhibition were the most intriguing for me, especially the multimedia displays, which revealed details I hadn’t noticed before. For instance, in one of Gérôme's paintings depicting prayer, he showed people in different postures. This caught my attention because, in Islam, we pray in unison, moving through the same stages together. The multimedia explanation helped me realize that Gérôme likely intended to capture all the stages of prayer within a single scene.
 
-  <img src="https://github.com/user-attachments/assets/45b25b98-5156-4ff5-9a36-14b76e0e9bd5" alt="Processed Image" height="100">
+  <img src="https://github.com/user-attachments/assets/45b25b98-5156-4ff5-9a36-14b76e0e9bd5" alt="Processed Image" height="200" width="auto">
 
 The audio guide added an extra layer of enjoyment to the experience, offering a brief yet captivating story behind each painting. It wasn’t just informative it brought the artwork to life in a way that felt personal and engaging. With its distinctive and clear voice, the audio guide truly enhanced the exhibition, making the experience even more immersive.
 
-  <img src="https://github.com/user-attachments/assets/16fc9889-ea43-4995-b139-5c03175c646e" alt="Processed Image" height="100">
-  <img src="https://github.com/user-attachments/assets/d59c9ca2-b235-4487-a437-1c1a486cb6fc" alt="Processed Image" height="100">
+  <img src="https://github.com/user-attachments/assets/16fc9889-ea43-4995-b139-5c03175c646e" alt="Processed Image" height="200" width="auto">
+  <img src="https://github.com/user-attachments/assets/d59c9ca2-b235-4487-a437-1c1a486cb6fc" alt="Processed Image" height="200" width="auto">
 
 ----
 <p align="center">
