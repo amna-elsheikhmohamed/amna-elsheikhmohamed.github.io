@@ -129,7 +129,9 @@ The audio guide added an extra layer of enjoyment to the experience, offering a 
 
 <h1 id="week4" align="center">Week 4 💫 </h1>
 
-My task this week is to explore different museum online collections and choose collection to analyze using Power BI. 
+- My task this week is to explore different museum online collections and choose collection to analyze using Power BI. 
+- I chose The Museum of Modern Art (MoMA) Collection, which contains a dataset of artists and artworks. I've attempting to visualize it.
+  
 ## Challenges
 One challenge I faced was trying to use a line chart or Gantt to visualize the birth and death dates, as well as the age of the artist, but it didn’t work for me. So, I ended up using a table instead. I think it would be cooler if it were a chart.
 
