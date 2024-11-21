@@ -1,8 +1,15 @@
 # Hi 👋! My name is Amna, and I'm a New Intern from the Digital Experience Department
 
 # Internship Weekly Summary
+<h1 align="center">Internship Weekly Summary</h1>
 
-<h1 align="center">Week 1 🌸</h1>
+<p align="center">
+  <a href="#week1">Week 1 🌸</a> | 
+  <a href="#week2">Week 2 🌺</a> | 
+  <a href="#week3">Week 3 📝</a>
+</p>
+
+<h1 id="week1" align="center">Week 1 🌸</h1>
 
 ### Sunday
 -	The week began with an official introduction to the team and  the signing of the internship contract. 
@@ -45,7 +52,7 @@ I have always been eager to learn more about Power BI, so it was great to work w
 </p>
 
 ---
-<h1 align="center">Week 2 🌺 </h1>
+<h1 id="week2" align="center">Week 2 🌺</h1>
 
 This week,  My supervisor assigned me to fork the Australian Center for Moving Image’s source code using Ruby and Jekyll to create an audio guide for a fictional exhibition. My main tasks involved customizing the website's design, adding audio generated with a text-to-speech tool, and utilizing multimedia elements published on the Qatar Museum website.
 
@@ -91,7 +98,7 @@ This week,  My supervisor assigned me to fork the Australian Center for Moving I
   </a>
 </p>
 
-<h1 align="center">Week 3 📝 </h1>
+<h1 id="week3" align="center">Week 3 📝</h1>
 
 This week, I’m looking into a new platform, Getty’s Quire, to explore its capabilities in publishing an exhibition catalogue. My task involves forking existing code to create a custom publication, testing out its features, and experimenting with different formats: a downloadable PDF, an e-book, and an online version and check if it does support Arabic language.
 
