@@ -1,5 +1,5 @@
 import requests
-from PIL import Image, ImageOps
+from PIL import Image
 import tkinter as tk
 from io import BytesIO
 
@@ -53,8 +53,8 @@ def display_text_and_image(title, description, image_url):
             image = Image.open(BytesIO(response.content))
             image = image.resize((300, 200))  # Resize image for display
 
-            # Convert the image to a Tkinter PhotoImage object directly without ImageTk
-            image_photo = Image.PhotoImage(image)  # Use this line for PhotoImage in tkinter
+            # Convert the image to a Tkinter PhotoImage object (via PIL.Image)
+            image_photo = tk.PhotoImage(master=window, image=image)
             label_image.config(image=image_photo)
             label_image.image = image_photo  # Keep a reference to avoid garbage collection
         except Exception as e:
