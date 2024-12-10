@@ -1,5 +1,5 @@
 import requests
-from PIL import Image, ImageTk
+from PIL import Image, ImageOps
 import tkinter as tk
 from io import BytesIO
 from mfrc522 import SimpleMFRC522
@@ -53,7 +53,7 @@ def display_text_and_image(title, description, image_url):
             # Fetch the image from the URL
             response = requests.get(image_url)
             image = Image.open(BytesIO(response.content))  # Open image from URL
-            image = image.resize((300, 200), Image.ANTIALIAS)  # Resize image for display
+            image = ImageOps.fit(image, (300, 200), method=0)  # Resize and crop the image
             img_tk = ImageTk.PhotoImage(image)  # Convert image to Tkinter format
             
             # Display the image
