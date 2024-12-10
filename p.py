@@ -1,5 +1,4 @@
 import requests
-from PIL import Image
 import tkinter as tk
 from io import BytesIO
 
@@ -49,12 +48,12 @@ def display_text_and_image(title, description, image_url):
 
     if image_url:
         try:
+            # Fetch image using requests
             response = requests.get(image_url)
-            image = Image.open(BytesIO(response.content))
-            image = image.resize((300, 200))  # Resize image for display
+            image_data = BytesIO(response.content)
 
-            # Convert the image to a Tkinter PhotoImage object (via PIL.Image)
-            image_photo = tk.PhotoImage(master=window, image=image)
+            # Use Tkinter PhotoImage to display the image
+            image_photo = tk.PhotoImage(data=image_data.read())  # Load image data directly from response
             label_image.config(image=image_photo)
             label_image.image = image_photo  # Keep a reference to avoid garbage collection
         except Exception as e:
