@@ -1,5 +1,7 @@
 import requests
+from PIL import Image, ImageTk
 import tkinter as tk
+from io import BytesIO
 from mfrc522 import SimpleMFRC522
 import RPi.GPIO as GPIO
 
@@ -40,11 +42,28 @@ def get_exhibit_data(exhibit_id):
         print(f"Error fetching exhibit data: {e}")
         return None, None, None
 
-# Function to display text in tkinter window
-def display_text(title, description, image_url):
+# Function to display text and image in tkinter window
+def display_text_and_image(title, description, image_url):
     label_title.config(text=title)
     label_description.config(text=description)
-    label_image_url.config(text=f"Image URL: {image_url}")  # Display the image URL
+    
+    # If image_url is available, display the image
+    if image_url:
+        try:
+            # Fetch the image from the URL
+            response = requests.get(image_url)
+            image = Image.open(BytesIO(response.content))  # Open image from URL
+            image = image.resize((300, 200), Image.ANTIALIAS)  # Resize image for display
+            img_tk = ImageTk.PhotoImage(image)  # Convert image to Tkinter format
+            
+            # Display the image
+            label_image.config(image=img_tk)
+            label_image.image = img_tk  # Keep a reference to the image
+        except Exception as e:
+            print(f"Error displaying image: {e}")
+            label_image.config(image=None)  # Clear image if there's an error
+    else:
+        label_image.config(image=None)  # If no image URL, clear the image
 
 # Function to handle RFID scan and display results
 def scan_rfid():
@@ -59,29 +78,29 @@ def scan_rfid():
             print(f"Exhibit: {title}")
             print(f"Description: {description}")
             
-            # Display the exhibit text and image URL
-            display_text(title, description, image_url)
+            # Display the exhibit text and image
+            display_text_and_image(title, description, image_url)
         else:
             label_title.config(text="No exhibit data found.")
             label_description.config(text="")
-            label_image_url.config(text="")
+            label_image.config(image=None)  # Clear image if no data found
     finally:
         GPIO.cleanup()
 
 # Setup tkinter window
 window = tk.Tk()
 window.title("Museum RFID Exhibit Viewer")
-window.geometry("600x400")
+window.geometry("600x500")
 
-# Create labels for displaying title, description, and image URL
+# Create labels for displaying title, description, and image
 label_title = tk.Label(window, text="Exhibit Title", font=("Arial", 20))
 label_title.pack(pady=20)
 
 label_description = tk.Label(window, text="Exhibit Description", font=("Arial", 12), wraplength=500)
 label_description.pack(pady=10)
 
-label_image_url = tk.Label(window, text="Image URL", font=("Arial", 10), wraplength=500)
-label_image_url.pack(pady=10)
+label_image = tk.Label(window)
+label_image.pack(pady=10)
 
 # Create a button to trigger RFID scanning
 scan_button = tk.Button(window, text="Scan RFID", font=("Arial", 14), command=scan_rfid)
