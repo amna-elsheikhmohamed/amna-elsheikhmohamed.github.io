@@ -155,6 +155,7 @@ One challenge I faced was trying to use a line chart or Gantt to visualize the b
 <h1 id="week6" align="center">Week 6 💫 </h1>
 
 <h1 id="week7" align="center">Week 7 💫 </h1>
+
 ### Project Overview: Museum RFID Exhibit Viewer
 
 This project is a digital guide for museums, enabling visitors to access detailed information about exhibits by scanning RFID tags. Each RFID tag is linked to specific exhibit data, fetched dynamically from the Louvre's API and displayed on a GUI.
@@ -188,8 +189,10 @@ This project is a digital guide for museums, enabling visitors to access detaile
 3. The GUI displays the fetched data, including an image of the exhibit resized to fit the window.
 
 This project combines RFID technology with a digital experience, making museum visits more interactive and informative.
-![image00001](https://github.com/user-attachments/assets/4f27460c-6ab0-4e8e-8452-28c45602b315)
-https://drive.google.com/file/d/1bg71gsgOJR8GxIR9z8Czk3aDVjyv_eMv/view?usp=drive_link
+
+### Project Demonstration:
+Get ready to see the project in action! <a align="center" href="https://drive.google.com/file/d/1bg71gsgOJR8GxIR9z8Czk3aDVjyv_eMv/view?usp=drive_link">Click here</a> to watch the video and check out the images that showcase how the RFID tag is scanned, exhibit data is instantly fetched, and the GUI displays the relevant information and images smoothly. It’s a truly interactive experience that brings the museum exhibits to life!
+<img src="https://github.com/user-attachments/assets/4f27460c-6ab0-4e8e-8452-28c45602b315" alt="Processed Image" height="200" width="auto">
 
 ----
 <p align="center">
