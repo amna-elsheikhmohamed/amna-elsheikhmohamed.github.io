@@ -6,6 +6,9 @@
   <a href="#week2">Week 2 🌺</a> | 
   <a href="#week3">Week 3 📝</a> | 
   <a href="#week4">Week 4 🌺</a> | 
+  <a href="#week5">Week 5 🌸</a> | 
+  <a href="#week6">Week 6 📝</a> | 
+
 
 </p>
 
@@ -140,6 +143,16 @@ One challenge I faced was trying to use a line chart or Gantt to visualize the b
 <a align="center" href="https://app.powerbi.com/groups/me/reports/85d90aa7-29fa-4188-9617-af6fa8f2fec8/f128069a26bd1f8567ff?experience=power-bi">Click here to vist my Dashboard📈</a>
 
 <img src="https://github.com/user-attachments/assets/87e23e54-7fbc-4cb5-9a30-3da7e4c7d897" alt="Processed Image" height="200" width="auto">
+---
+
+<h1 id="week5" align="center">Week 5 💫 </h1>
+
+
+
+---
+
+<h1 id="week6" align="center">Week 6 💫 </h1>
+
 
 
 ----
