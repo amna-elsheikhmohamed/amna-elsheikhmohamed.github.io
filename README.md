@@ -8,6 +8,7 @@
   <a href="#week4">Week 4 🌺</a> | 
   <a href="#week5">Week 5 🌸</a> | 
   <a href="#week6">Week 6 📝</a> | 
+  <a href="#week7">Week 7 📝</a> | 
 
 
 </p>
@@ -152,6 +153,8 @@ One challenge I faced was trying to use a line chart or Gantt to visualize the b
 ---
 
 <h1 id="week6" align="center">Week 6 💫 </h1>
+
+<h1 id="week7" align="center">Week 7 💫 </h1>
 
 
 
