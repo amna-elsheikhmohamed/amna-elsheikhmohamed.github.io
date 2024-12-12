@@ -174,7 +174,7 @@ Get ready to explore the project in action!  <a align="center" href="https://dri
 
 **Conference Overview: Future of Museums and Museology Practices in a Changing World**
 
-I attended the **"Future of Museums and Museology Practices in a Changing World"** conference, which focused on how museums are evolving through technology. The sessions covered the integration of AI, machine learning, and digital platforms to enhance museum operations, collections management, and visitor engagement.
+I attended the **"Future of Museums and Museology Practices in a Changing World"** conference. On the third day, the focus was on how museums are evolving through technology. The sessions covered the integration of AI, machine learning, and digital platforms to enhance museum operations, collections management, and visitor engagement.
 
 **Key Sessions I Attended:**
 
