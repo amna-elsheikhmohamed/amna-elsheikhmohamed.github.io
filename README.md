@@ -193,7 +193,7 @@ This project combines RFID technology with a digital experience, making museum v
 ### Project Demonstration:
 Get ready to see the project in action! <a align="center" href="https://drive.google.com/file/d/1bg71gsgOJR8GxIR9z8Czk3aDVjyv_eMv/view?usp=drive_link">Click here</a> to watch the video and check out the images that showcase how the RFID tag is scanned, exhibit data is instantly fetched, and the GUI displays the relevant information and images smoothly. It’s a truly interactive experience that brings the museum exhibits to life!
 
-  <img src="https://github.com/user-attachments/assets/4f27460c-6ab0-4e8e-8452-28c45602b315" alt="Processed Image" height="200" width="auto">
+  <img src="https://github.com/user-attachments/assets/4f27460c-6ab0-4e8e-8452-28c45602b315" alt="Processed Image" align="center" height="200" width="auto">
 
 ----
 <p align="center">
