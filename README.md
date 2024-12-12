@@ -148,14 +148,25 @@ One challenge I faced was trying to use a line chart or Gantt to visualize the b
 
 <h1 id="week5" align="center">Week 5 💫 </h1>
 
-### **Project Overview:**
+### **Project Overview: Museum Collection Explorer**
 
-This web application is a **museum collection explorer** built using **Node.js** and **Express.js**. The app allows users to access and explore curated collections from three prestigious museums: the **Cleveland Museum of Art**, the **MET Museum**, and the **Louvre Museum**. By integrating with their public APIs, the app provides real-time access to detailed information about artists, creators, and objects from the museums' collections.
+This project is a digital platform for exploring museum collections, allowing users to access detailed information about artworks from renowned museums like the **Cleveland Museum of Art**, the **MET Museum**, and the **Louvre Museum**. The app dynamically fetches and displays exhibit data from the museums' public APIs, providing a seamless experience for users to explore various collections and learn about the creators and objects.
 
-The application serves static content such as HTML, CSS, and JavaScript files and provides interactive API endpoints that fetch JSON data about artworks. Users can explore different museum collections by visiting designated routes for each museum, while the backend handles API calls and error management.
+**Software Tools:**
+- **Node.js & Express.js:** Frameworks used for building the back-end server and handling API routes.
+- **CORS:** Enables cross-origin resource sharing for API calls.
+- **Fetch API:** Retrieves museum collection data in JSON format from external sources.
+- **Path Module:** Manages file paths for serving static files like HTML, CSS, and JavaScript.
 
-Through this project, users can learn about artworks and artists, while the app showcases how Node.js can interact with external APIs to create a seamless, data-driven user experience.
- <a align="center" href="https://drive.google.com/file/d/1q__BVynjtkcYyNxIffL4ZfUjZ0X9YncB/view?usp=drive_link">Click here to watch a video about the Online Collection.</a>
+**How It Works:**
+- The server hosts static files (HTML, CSS, and JavaScript) that users can access to explore museum collections.
+- The server also has specific routes for each museum to fetch data from their respective public APIs (Cleveland Museum of Art, MET Museum, and Louvre Museum).
+- When a user navigates to a museum's page, the app fetches detailed data about artworks and creators and displays it dynamically.
+  
+This project showcases the use of Node.js and API integration to create an interactive and informative digital experience for museum visitors.
+
+**Project Demonstration:**
+Get ready to explore the project in action!  <a align="center" href="https://drive.google.com/file/d/1q__BVynjtkcYyNxIffL4ZfUjZ0X9YncB/view?usp=drive_link">Click here to watch a video about the Online Collection.</a> and see how the app fetches and displays artwork data from the museums, offering a rich, interactive experience for users as they explore the collections.
 
 ---
 
