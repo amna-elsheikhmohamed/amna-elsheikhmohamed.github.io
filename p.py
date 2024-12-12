@@ -20,7 +20,7 @@ def get_exhibit_data(exhibit_id):
     try:
         api_url = rfid_to_exhibit_mapping.get(exhibit_id)
         if not api_url:
-            print("No exhibit found for this RFID tag.")
+            print_colored("No exhibit found for this RFID tag.", "red")
             return None, None, None
 
         response = requests.get(api_url)
@@ -36,7 +36,7 @@ def get_exhibit_data(exhibit_id):
 
         return title, description, image_url
     except requests.exceptions.RequestException as e:
-        print(f"Error fetching exhibit data: {e}")
+        print_colored(f"Error fetching exhibit data: {e}", "red")
         return None, None, None
 
 # Function to display text and image in tkinter window
@@ -56,35 +56,51 @@ def display_text_and_image(title, description, image_url):
             # Decode the image into an OpenCV format
             img = cv2.imdecode(img_array, cv2.IMREAD_COLOR)
 
+            # Resize the image to fit within the tkinter window
+            img_height, img_width = img.shape[:2]
+            max_width, max_height = 500, 300  # Desired max dimensions for the image
+            scale = min(max_width / img_width, max_height / img_height)
+            new_width = int(img_width * scale)
+            new_height = int(img_height * scale)
+            img_resized = cv2.resize(img, (new_width, new_height))
+
             # Convert image from BGR (OpenCV format) to RGB (Tkinter format)
-            img_rgb = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
+            img_rgb = cv2.cvtColor(img_resized, cv2.COLOR_BGR2RGB)
 
             # Convert the OpenCV image into a format that Tkinter can use
-            img_tk = cv2.cvtColor(img_rgb, cv2.COLOR_RGB2BGR)  # Ensure color format is correct
-            img_tk = cv2.imencode('.png', img_tk)[1].tobytes()  # Convert to bytes
-
-            # Create a Tkinter-compatible image and update the label
+            img_tk = cv2.imencode('.png', img_rgb)[1].tobytes()
             photo = tk.PhotoImage(data=img_tk)
+
+            # Update the label with the image
             label_image.config(image=photo)
             label_image.image = photo  # Keep a reference to avoid garbage collection
         except Exception as e:
-            print(f"Error displaying image: {e}")
+            print_colored(f"Error displaying image: {e}", "red")
             label_image.config(image=None)
     else:
         label_image.config(image=None)
 
+# Function to print messages in colored text
+def print_colored(message, color):
+    if color == "red":
+        print(f"\033[91m{message}\033[0m")  # Red text
+    elif color == "blue":
+        print(f"\033[94m{message}\033[0m")  # Blue text
+    else:
+        print(message)
+
 # Function to scan RFID and display corresponding exhibit
 def scan_rfid():
     try:
-        print("Place your RFID tag near the reader...")
+        print_colored("Place your RFID tag near the reader...", "blue")
         id, text = reader.read()  # Read the RFID tag
-        
-        print(f"Scanned ID: {id}")
+
+        print_colored(f"Scanned ID: {id}", "blue")
         title, description, image_url = get_exhibit_data(id)  # Fetch exhibit data based on RFID ID
-        
+
         if title:
-            print(f"Exhibit: {title}")
-            print(f"Description: {description}")
+            print_colored(f"Exhibit: {title}", "blue")
+            print_colored(f"Description: {description}", "blue")
             # Display the exhibit image and text
             display_text_and_image(title, description, image_url)
         else:
@@ -115,4 +131,3 @@ scan_button.pack(pady=20)
 
 # Start the tkinter window loop
 window.mainloop()
-pip install opencv-python requests numpy
