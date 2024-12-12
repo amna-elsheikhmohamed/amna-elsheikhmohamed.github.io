@@ -148,7 +148,14 @@ One challenge I faced was trying to use a line chart or Gantt to visualize the b
 
 <h1 id="week5" align="center">Week 5 💫 </h1>
 
+### **Project Overview:**
 
+This web application is a **museum collection explorer** built using **Node.js** and **Express.js**. The app allows users to access and explore curated collections from three prestigious museums: the **Cleveland Museum of Art**, the **MET Museum**, and the **Louvre Museum**. By integrating with their public APIs, the app provides real-time access to detailed information about artists, creators, and objects from the museums' collections.
+
+The application serves static content such as HTML, CSS, and JavaScript files and provides interactive API endpoints that fetch JSON data about artworks. Users can explore different museum collections by visiting designated routes for each museum, while the backend handles API calls and error management.
+
+Through this project, users can learn about artworks and artists, while the app showcases how Node.js can interact with external APIs to create a seamless, data-driven user experience.
+ <a align="center" href="https://drive.google.com/file/d/1q__BVynjtkcYyNxIffL4ZfUjZ0X9YncB/view?usp=drive_link">Click here to watch a video about the Online Collection.</a>
 
 ---
 
