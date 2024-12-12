@@ -155,8 +155,41 @@ One challenge I faced was trying to use a line chart or Gantt to visualize the b
 <h1 id="week6" align="center">Week 6 💫 </h1>
 
 <h1 id="week7" align="center">Week 7 💫 </h1>
+### Project Overview: Museum RFID Exhibit Viewer
 
+This project is a digital guide for museums, enabling visitors to access detailed information about exhibits by scanning RFID tags. Each RFID tag is linked to specific exhibit data, fetched dynamically from the Louvre's API and displayed on a GUI.
 
+---
+
+### **Hardware Tools:**
+1. **Raspberry Pi**: Runs the project and handles RFID scanning.
+2. **MFRC522 RFID Reader**: Scans RFID tags to identify exhibits.
+3. **RFID Tags**: Unique identifiers linked to museum exhibits.
+
+---
+
+### **Software Tools:**
+1. **Python**: Programming language used for development.
+   - **Libraries**: 
+     - `requests` for API calls.
+     - `cv2 (OpenCV)` for image processing.
+     - `tkinter` for GUI development.
+     - `mfrc522` for RFID reader integration.
+     - `RPi.GPIO` for hardware control.
+2. **Louvre API**: Source of exhibit data (title, description, images).
+3. **OpenCV**: Processes and resizes exhibit images.
+4. **Tkinter**: Displays exhibit information and images in a user-friendly interface.
+
+---
+
+### How It Works:
+1. An RFID tag is scanned using the MFRC522 reader.
+2. The project retrieves corresponding exhibit data (title, description, and image) from the Louvre's API.
+3. The GUI displays the fetched data, including an image of the exhibit resized to fit the window.
+
+This project combines RFID technology with a digital experience, making museum visits more interactive and informative.
+![image00001](https://github.com/user-attachments/assets/4f27460c-6ab0-4e8e-8452-28c45602b315)
+https://drive.google.com/file/d/1bg71gsgOJR8GxIR9z8Czk3aDVjyv_eMv/view?usp=drive_link
 
 ----
 <p align="center">
