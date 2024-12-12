@@ -172,6 +172,26 @@ Get ready to explore the project in action!  <a align="center" href="https://dri
 
 <h1 id="week6" align="center">Week 6 💫 </h1>
 
+**Conference Overview: Future of Museums and Museology Practices in a Changing World**
+
+I attended the **"Future of Museums and Museology Practices in a Changing World"** conference, which focused on how museums are evolving through technology. The sessions covered the integration of AI, machine learning, and digital platforms to enhance museum operations, collections management, and visitor engagement.
+
+**Key Sessions I Attended:**
+
+The conference featured several impactful sessions, but the most valuable ones for me were:
+
+1. **Leveraging AI, Machine Learning, and Computer Vision**
+   
+2. **Data Matching for Standardizing Collections Data**
+
+3. **A Year of Digital Transformation at Qatar Museums – Milestones and Insights**
+
+**Conference Insights:**
+
+The conference provided valuable insights into how museums are adopting new technologies to improve both internal processes and visitor experiences. It deepened my understanding of the role of digital transformation in the museum sector and inspired me to explore how I can contribute to these efforts, particularly in the digital experience field. The event left me excited to apply these insights in my future work.
+
+---
+
 <h1 id="week7" align="center">Week 7 💫 </h1>
 
 ### Project Overview: Museum RFID Exhibit Viewer
